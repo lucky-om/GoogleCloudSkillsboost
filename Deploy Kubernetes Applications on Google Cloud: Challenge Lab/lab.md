@@ -15,7 +15,7 @@ Use the image to create and expose a deployment in Kubernetes
 
 
 ```bash
-curl -LO https://raw.githubusercontent.com/lucky-om/GoogleCloudSkillsboost/refs/heads/main/Deploy%20Kubernetes%20Applications%20on%20Google%20Cloud%3A%20Challenge%20Lab/abhishekGSP318.sh
+curl -LO https://raw.githubusercontent.com/lucky-om/GoogleCloudSkillsboost/refs/heads/main/Deploy%20Kubernetes%20Applications%20on%20Google%20Cloud%3A%20Challenge%20Lab/lucky.sh
 sudo chmod +x lucky.sh
 ./lucky.sh
 ```
